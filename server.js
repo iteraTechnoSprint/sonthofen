@@ -4,11 +4,13 @@
 //
 var http = require('http');
 var path = require('path');
+var url = require("url");
 
 var server = http.createServer(function(request,response){  
-    response.writeHeader(200, {"Content-Type": "text/plain"});  
-    response.write("Hello World");  
-    response.end();  
+  var parsedUrl = url.parse(request.url, true); // true to get query as object
+  var queryAsObject = parsedUrl.query;
+  console.log(JSON.stringify(queryAsObject));
+  response.end(JSON.stringify(queryAsObject));
 });
 
 server.listen(process.env.PORT || 3000, process.env.IP || "0.0.0.0", function(){
