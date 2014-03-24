@@ -1,5 +1,7 @@
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
+    param1 = request.GET.get('param1', '')
+    param2 = request.GET.get('param2', '')
+    return HttpResponse(param1 + "," + param2)
     
