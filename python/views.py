@@ -1,7 +1,15 @@
+import urllib2
+import json
+
 from django.http import HttpResponse
 
+
 def index(request):
-    param1 = request.GET.get('param1', '')
-    param2 = request.GET.get('param2', '')
-    return HttpResponse(param1 + "," + param2)
+    x = request.GET.get('x', '')
+    y = request.GET.get('y', '')
+    iteratec = urllib2.urlopen("http://www.iteratec.de").read()
+    
+    data = {'x': x, 'y': y, 'iteratec': iteratec}
+    
+    return HttpResponse(json.dumps(data), content_type='text/plain')
     
