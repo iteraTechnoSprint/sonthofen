@@ -12,10 +12,11 @@ class ApplicationController < ActionController::Base
             if request.get? 
 
                 x= [params[:x]]
+                y= [params[:y]]
             end
             
             iteratec = Net::HTTP.get_response(URI.parse("http://www.iteratec.de")).body
-            output = {'x' => x, 'iteratec' => iteratec}
+            output = {'x' => x, 'y' => y, 'iteratec' => iteratec}
             
             render :json => output
       end
