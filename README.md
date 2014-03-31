@@ -13,11 +13,21 @@
   * Achtung: Wenn das Terminal den Fokus hat, lässt sich das Menü nicht bedienen
 
 ### Javascript / node.js
+* URL
+  * https://c9.io/iterasprint1/iterasprint-nodejs
+  * https://c9.io/iterasprint2/iterasprint-nodejs
+  * https://c9.io/iterasprint3/iterasprint-nodejs
+  * https://c9.io/iterasprint4/iterasprint-nodejs
 * Web-Service-URL
   * https://iterasprint-nodejs-c9-iterasprint1.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint2.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint3.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint4.c9.io?param1=p1&param2=p2
+* Reset
+  * https://c9.io/iterasprint1/iterasprint-nodejs?reset=1
+  * https://c9.io/iterasprint2/iterasprint-nodejs?reset=1
+  * https://c9.io/iterasprint3/iterasprint-nodejs?reset=1
+  * https://c9.io/iterasprint4/iterasprint-nodejs?reset=1
 * Start über Run-Button
 * 'server.js' muss im Editor selektiert sein
 
