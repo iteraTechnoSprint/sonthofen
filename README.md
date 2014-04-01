@@ -37,7 +37,7 @@
   * https://c9.io/iterasprint2/iterasprint-php
   * https://c9.io/iterasprint3/iterasprint-php
   * https://c9.io/iterasprint4/iterasprint-php
-* Web-Service-URL
+* Web-Service
   * https://iterasprint-php-c9-iterasprint1.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint2.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint3.c9.io/hello-world.php?x=p1&y=p2
@@ -51,11 +51,21 @@
 * Zu startende Seite muss im Editor selektiert sein
 
 ### Ruby / Rails
+* Workspace
+  * https://c9.io/iterasprint1/iterasprint1-rails
+  * https://c9.io/iterasprint2/iterasprint-rails
+  * https://c9.io/iterasprint3/iterasprint-rails
+  * https://c9.io/iterasprint4/iterasprint-rails
 * Web-Service-URL
   * https://iterasprint1-rails-c9-iterasprint1.c9.io/?x=123&y=abc
   * https://iterasprint-rails-c9-iterasprint2.c9.io/?x=123&y=abc
   * https://iterasprint-rails-c9-iterasprint3.c9.io/?x=123&y=abc
   * https://iterasprint-rails-c9-iterasprint4.c9.io/?x=123&y=abc
+* Reset Workspace
+  * https://c9.io/iterasprint1/iterasprint1-rails?reset=1
+  * https://c9.io/iterasprint2/iterasprint-rails?reset=1
+  * https://c9.io/iterasprint3/iterasprint-rails?reset=1
+  * https://c9.io/iterasprint4/iterasprint-rails?reset=1
 * Start über Terminal: rails s -b $IP -p $PORT
 * Service ist in 'app/contrllers/application_controller.rb' implementiert
 
