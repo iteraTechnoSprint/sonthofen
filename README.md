@@ -18,7 +18,7 @@
   * https://c9.io/iterasprint2/iterasprint-nodejs
   * https://c9.io/iterasprint3/iterasprint-nodejs
   * https://c9.io/iterasprint4/iterasprint-nodejs
-* Web-Service
+* Web Service
   * https://iterasprint-nodejs-c9-iterasprint1.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint2.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint3.c9.io?param1=p1&param2=p2
@@ -37,7 +37,7 @@
   * https://c9.io/iterasprint2/iterasprint-php
   * https://c9.io/iterasprint3/iterasprint-php
   * https://c9.io/iterasprint4/iterasprint-php
-* Web-Service
+* Web Service
   * https://iterasprint-php-c9-iterasprint1.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint2.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint3.c9.io/hello-world.php?x=p1&y=p2
@@ -56,7 +56,7 @@
   * https://c9.io/iterasprint2/iterasprint-rails
   * https://c9.io/iterasprint3/iterasprint-rails
   * https://c9.io/iterasprint4/iterasprint-rails
-* Web-Service-URL
+* Web Service URL
   * https://iterasprint1-rails-c9-iterasprint1.c9.io/?x=123&y=abc
   * https://iterasprint-rails-c9-iterasprint2.c9.io/?x=123&y=abc
   * https://iterasprint-rails-c9-iterasprint3.c9.io/?x=123&y=abc
@@ -70,10 +70,20 @@
 * Service ist in 'app/contrllers/application_controller.rb' implementiert
 
 ### Python / Django
-* Web-Service-URL
+* Workspace
+  * https://c9.io/iterasprint1/python
+  * https://c9.io/iterasprint2/itersprint-python
+  * https://c9.io/iterasprint3/itersprint-python
+  * https://c9.io/iterasprint4/itersprint-python
+* Web Service
   * https://python-c9-iterasprint1.c9.io/?x=p1&y=p2
   * https://iterasprint-python-c9-iterasprint2.c9.io/?x=p1&y=p2
   * https://iterasprint-python-c9-iterasprint3.c9.io/?x=p1&y=p2
   * https://iterasprint-python-c9-iterasprint4.c9.io/?x=p1&y=p2
+* Reset Workspace
+  * https://c9.io/iterasprint1/python?reset=1
+  * https://c9.io/iterasprint2/itersprint-python?reset=1
+  * https://c9.io/iterasprint3/itersprint-python?reset=1
+  * https://c9.io/iterasprint4/itersprint-python?reset=1
 * Start über Terminal: python manage.py runserver $IP:$PORT
 * Service ist in 'python/views.py' definiert
