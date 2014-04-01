@@ -13,17 +13,17 @@
   * Achtung: Wenn das Terminal den Fokus hat, lässt sich das Menü nicht bedienen
 
 ### Javascript / node.js
-* URL
+* Workspace
   * https://c9.io/iterasprint1/iterasprint-nodejs
   * https://c9.io/iterasprint2/iterasprint-nodejs
   * https://c9.io/iterasprint3/iterasprint-nodejs
   * https://c9.io/iterasprint4/iterasprint-nodejs
-* Web-Service-URL
+* Web-Service
   * https://iterasprint-nodejs-c9-iterasprint1.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint2.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint3.c9.io?param1=p1&param2=p2
   * https://iterasprint-nodejs-c9-iterasprint4.c9.io?param1=p1&param2=p2
-* Reset
+* Reset Workspace
   * https://c9.io/iterasprint1/iterasprint-nodejs?reset=1
   * https://c9.io/iterasprint2/iterasprint-nodejs?reset=1
   * https://c9.io/iterasprint3/iterasprint-nodejs?reset=1
@@ -32,11 +32,21 @@
 * 'server.js' muss im Editor selektiert sein
 
 ### PHP
+* Workspace
+  * https://c9.io/iterasprint1/iterasprint-php
+  * https://c9.io/iterasprint2/iterasprint-php
+  * https://c9.io/iterasprint3/iterasprint-php
+  * https://c9.io/iterasprint4/iterasprint-php
 * Web-Service-URL
   * https://iterasprint-php-c9-iterasprint1.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint2.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint3.c9.io/hello-world.php?x=p1&y=p2
   * https://iterasprint-php-c9-iterasprint4.c9.io/hello-world.php?x=p1&y=p2
+* Reset Workspace
+  * https://c9.io/iterasprint1/iterasprint-php?reset=1
+  * https://c9.io/iterasprint2/iterasprint-php?reset=1
+  * https://c9.io/iterasprint3/iterasprint-php?reset=1
+  * https://c9.io/iterasprint4/iterasprint-php?reset=1
 * Start über Run-Button 
 * Zu startende Seite muss im Editor selektiert sein
 
