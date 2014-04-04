@@ -1,5 +1,9 @@
 # iteraTechnoSprint Team <n&gt;
 
+## Yahoo Pipes
+* http://pipes.yahoo.com
+* Account: iterasprint1
+
 ## cloud9
 * https://c9.io/iterasprint<n&gt;
   * https://c9.io/iterasprint1
